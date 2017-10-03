@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://gdgcebu-devfest17.firebaseapp.com/",
+  "startDate": "2017-11-18T08:00:00+08:00",
+  "endDate": "2017-11-18T18:00:00+08:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-82202527-8",
+    "dev": ""
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Cebu",
+    "twitter": "gdgcebu"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdgcebu-devfest17",
+    "domain": "gdgcebu-devfest17.firebaseapp.com",
+    "database": "https://gdgcebu-devfest17.firebaseio.com",
+    "api": "AIzaSyBqpF5GV6BM0P4hDaYINNUKNzqMqWE5A2M",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,8 +32,8 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "devfestcebu17",
+  "disqusShortName": "",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
@@ -42,10 +42,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -63,38 +59,28 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDG Cebu",
+      "url": "https://twitter.com/gdgcebu"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Cebu",
+      "url": "https://www.facebook.com/gdgcebuorg"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "IEC Convention Center",
+    "address": "Pope John Paul II Ave, Cebu City",
+    "link": "https://www.facebook.com/ic3cebu/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 10.3211809,
+      "longitude": 123.9087316,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 10.3210593,
+      "longitude": 123.9120573
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +89,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.facebook.com/groups/gdgcebu/photos/",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -127,14 +113,6 @@
         },
         "hideLogo": true,
         "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
       }
     },
     "speakers": {
