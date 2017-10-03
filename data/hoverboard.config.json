@@ -36,7 +36,7 @@
   "disqusShortName": "",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -83,18 +83,16 @@
       "longitude": 123.9120573
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_1.jpg"
     ]
   },
   "gallery": {
     "albumUrl": "https://www.facebook.com/groups/gdgcebu/photos/",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/album_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/album_2.jpg",
+        "/images/backgrounds/album_3.jpg"
       ]
     }
   },
@@ -106,11 +104,6 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
