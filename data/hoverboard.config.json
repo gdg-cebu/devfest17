@@ -97,7 +97,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/banner.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
