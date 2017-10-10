@@ -64,6 +64,16 @@
       "title": "For visitors",
       "links": [
         {
+          "text": "GDG Cebu",
+          "url": "https://gdgcebu.org",
+          "newTab": true
+        },
+        {
+          "text": "GBG Cebu",
+          "url": "http://www.gbgcebu.org/",
+          "newTab": true
+        },
+        {
           "text": "Code of Conduct",
           "url": "/cod/",
           "newTab": false
