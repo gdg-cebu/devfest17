@@ -74,7 +74,9 @@
         min-height: 80px;
       }
 
-      .dates {
+      .dates,
+      .times,
+      .venue {
         font-size: 18px;
         text-transform: uppercase;
       }
@@ -132,6 +134,8 @@
               <iron-image class="logo" src="/images/event-logo.png" sizing="contain"
                           alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
+              <h3 class="times">{$ times $}</h3>
+              <h3 class="venue">{$ locationTitle $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}
                 <div class="open-video" on-tap="_openVideo">
