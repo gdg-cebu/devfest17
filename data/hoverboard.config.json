@@ -92,7 +92,7 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#3f51b5",
         "backgroundImage": "/images/backgrounds/banner.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
