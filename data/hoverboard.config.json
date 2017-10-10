@@ -116,5 +116,8 @@
         "tabBarColor": "#fff"
       }
     }
+  },
+  "tickets": {
+    "url": "https://www.eventbrite.com/e/devfest-gdayx-cebu-2017-registration-38729623346?aff=website"
   }
 }
