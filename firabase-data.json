@@ -779,31 +779,8 @@
     "title" : "Program Committee"
   } ],
   "tickets" : {
-    "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
-      "soldOut" : false,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "name" : "Lazy Bird",
-      "price" : 1000,
-      "soldOut" : false,
-      "starts" : "July 1"
-    } ],
-    "url" : "http://2event.com/events/630032"
+    "elements" : [ ],
+    "url" : "https://www.eventbrite.com/e/devfest-gdayx-cebu-2017-registration-38729623346?aff=website"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
