@@ -425,19 +425,6 @@
     "tags" : [ ],
     "title" : "CEO"
   }, {
-    "bio" : "TBD",
-    "company" : "DOST",
-    "companyLogo" : "/images/logos/dost.jpg",
-    "country" : "Philippines",
-    "featured" : true,
-    "id" : 5,
-    "name" : "Russell Pili",
-    "photoUrl" : "/images/people/russell_pili.jpg",
-    "shortBio" : "TBD",
-    "socials" : [ ],
-    "tags" : [ ],
-    "title" : ""
-  }, {
     "badges" : [ {
       "description" : "Cloud Google Developer Expert",
       "link" : "https://developers.google.com/experts/people/jose-albert-padin",
@@ -464,19 +451,6 @@
     "id" : 11,
     "name" : "Mark Buenconsejo",
     "photoUrl" : "/images/people/mark_buenconsejo.jpg",
-    "shortBio" : "TBD",
-    "socials" : [ ],
-    "tags" : [ ],
-    "title" : ""
-  }, {
-    "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
-    "country" : "Philippines",
-    "featured" : true,
-    "id" : 12,
-    "name" : "Tina Amper",
-    "photoUrl" : "/images/people/tina_amper.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
