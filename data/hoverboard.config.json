@@ -62,17 +62,17 @@
   ],
   "location": {
     "apiKey": "AIzaSyBqpF5GV6BM0P4hDaYINNUKNzqMqWE5A2M",
-    "name": "IEC Convention Center",
-    "address": "Pope John Paul II Ave, Cebu City",
-    "link": "https://www.facebook.com/ic3cebu/",
+    "name": "JCentre Convention Hall",
+    "address": "AS Fortuna St., Mandaue City",
+    "link": "",
     "pointer": {
-      "latitude": 10.3211809,
-      "longitude": 123.9087316,
+      "latitude": 10.3355853,
+      "longitude": 123.9342414,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 10.3210593,
-      "longitude": 123.9120573
+      "latitude": 10.335501,
+      "longitude": 123.9405503
     },
     "images": [
       "/images/backgrounds/location_1.jpg"
