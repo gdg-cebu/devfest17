@@ -63,11 +63,6 @@
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
-        {
           "text": "Code of Conduct",
           "url": "/cod/",
           "newTab": false
