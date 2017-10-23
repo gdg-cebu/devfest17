@@ -23,17 +23,13 @@
       "sessions" : [ [ 101 ] ],
       "startTime" : "09:00"
     }, {
-      "endTime" : "09:40",
+      "endTime" : "09:50",
       "sessions" : [ [ 102 ] ],
       "startTime" : "09:20"
     }, {
-      "endTime" : "10:00",
-      "sessions" : [ [ 103 ] ],
-      "startTime" : "09:40"
-    }, {
       "endTime" : "10:20",
-      "sessions" : [ [ 104 ] ],
-      "startTime" : "10:00"
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "09:50"
     }, {
       "endTime" : "11:00",
       "sessions" : [ [ 105 ] ],
@@ -44,68 +40,72 @@
       "startTime" : "11:00"
     }, {
       "endTime" : "12:20",
-      "sessions" : [ [ 107 ] ],
+      "sessions" : [ [ 104 ] ],
       "startTime" : "11:40"
     }, {
       "endTime" : "13:00",
-      "sessions" : [ [ 108 ] ],
+      "sessions" : [ [ 107 ] ],
       "startTime" : "12:20"
     }, {
       "endTime" : "13:20",
-      "sessions" : [ [ 109 ], [ 110 ], [ 112 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 109 ], [ 110 ], [ 119 ], [ 120 ], [ 130 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "13:40",
-      "sessions" : [ [ 109 ], [ 111 ], [ 112 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 109 ], [ 111 ], [ 119 ], [ 120 ], [ 130 ] ],
       "startTime" : "13:20"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 114 ], [ 115 ], [ 116 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 114 ], [ 115 ], [ 119 ], [ 123 ], [ 130 ] ],
       "startTime" : "13:40"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 114 ], [ 118 ], [ 116 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 114 ], [ 118 ], [ 112 ], [ 123 ], [ 130 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "14:40",
-      "sessions" : [ [ 117 ], [ 118 ], [ 119 ], [ 120 ], [ 130 ] ],
+      "sessions" : [ [ 137 ], [ 118 ], [ 112 ], [ 113 ], [ 130 ] ],
       "startTime" : "14:20"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 117 ], [ 118 ], [ 123 ], [ 120 ], [ 130 ] ],
+      "sessions" : [ [ 121 ], [ 122 ], [ 124 ], [ 113 ], [ 130 ] ],
       "startTime" : "14:40"
     }, {
       "endTime" : "15:20",
-      "sessions" : [ [ 121 ], [ 122 ], [ 123 ], [ 124 ], [ 130 ] ],
+      "sessions" : [ [ 125 ], [ 122 ], [ 117 ], [ 113 ], [ 130 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "15:40",
-      "sessions" : [ [ 125 ], [ 122 ], [ 127 ], [ 124 ], [ 130 ] ],
+      "sessions" : [ [ 125 ], [ 138 ], [ 117 ], [ 113 ], [ 130 ] ],
       "startTime" : "15:20"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 125 ], [ 126 ], [ 127 ], [ 128 ], [ 131 ] ],
+      "sessions" : [ [ 126 ], [ 138 ], [ 139 ], [ 116 ], [ 131 ] ],
       "startTime" : "15:40"
     }, {
       "endTime" : "16:20",
-      "sessions" : [ [ 137 ], [ 126 ], [ 129 ], [ 128 ], [ 131 ] ],
+      "sessions" : [ [ 126 ], [ 138 ], [ 139 ], [ 116 ], [ 131 ] ],
       "startTime" : "16:00"
     }, {
-      "endTime" : "17:00",
-      "sessions" : [ [ 132 ] ],
+      "endTime" : "16:40",
+      "sessions" : [ [ 132 ], [ 132 ], [ 132 ], [ 116 ], [ 132 ] ],
       "startTime" : "16:20"
+    }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 132 ], [ 132 ], [ 132 ], [ 116 ], [ 132 ] ],
+      "startTime" : "16:40"
     }, {
       "endTime" : "17:20",
       "sessions" : [ [ 133 ] ],
       "startTime" : "17:00"
     }, {
-      "endTime" : "17:40",
+      "endTime" : "18:00",
       "sessions" : [ [ 134 ] ],
       "startTime" : "17:20"
     }, {
-      "endTime" : "18:00",
+      "endTime" : "18:20",
       "sessions" : [ [ 135 ] ],
-      "startTime" : "17:40"
+      "startTime" : "18:00"
     } ],
     "tracks" : [ {
       "title" : "Hall A"
@@ -140,12 +140,12 @@
       "tags" : [ "Keynote" ],
       "title" : "Keynote: AI and what it means for the Philippines"
     },
-    "104" : {
-      "description" : "TBD",
-      "id" : 104,
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Keynote: Digital Transformation"
+    "104": {
+      "description": "TBD",
+      "id": 104,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Design Sprint Reverse Pitching"
     },
     "105" : {
       "description" : "TBD",
@@ -216,7 +216,7 @@
       "id" : 114,
       "speakers" : [ ],
       "tags" : [ ],
-      "title" : "The future of business: Dx with Google Technology"
+      "title" : "The future of business: DX with Google Technology"
     },
     "115" : {
       "description" : "TBD",
@@ -253,7 +253,7 @@
       "id" : 119,
       "speakers" : [ ],
       "tags" : [ ],
-      "title" : "Google Cloud Platform Overview"
+      "title" : "Getting started with Cloud Firestore"
     },
     "120" : {
       "complexity" : "Intermediate",
@@ -368,7 +368,23 @@
     "137" : {
       "description": "TBD",
       "id": 137,
-      "title": "Break"
+      "title": "Youtube"
+    },
+    "138" : {
+      "complexity" : "Intermediate",
+      "description" : "TBD",
+      "id" : 138,
+      "speakers" : [ ],
+      "tags" : [ ],
+      "title" : "Workshop: Android Kotlin"
+    },
+    "139" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 139,
+      "speakers" : [ ],
+      "tags" : [ ],
+      "title" : "Code in the Dark: Frontend Meet"
     }
   },
   "speakers" : [ null, {
