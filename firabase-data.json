@@ -87,13 +87,9 @@
       "sessions" : [ [ 126 ], [ 138 ], [ 139 ], [ 116 ], [ 131 ] ],
       "startTime" : "16:00"
     }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 132 ], [ 132 ], [ 132 ], [ 116 ], [ 132 ] ],
-      "startTime" : "16:20"
-    }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 132 ], [ 132 ], [ 132 ], [ 116 ], [ 132 ] ],
-      "startTime" : "16:40"
+      "sessions" : [ [ 132 ] ],
+      "startTime" : "16:20"
     }, {
       "endTime" : "17:20",
       "sessions" : [ [ 133 ] ],
@@ -176,7 +172,7 @@
       "description" : "TBD",
       "id" : 109,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Business" ],
       "title" : "Launching of WomenWill"
     },
     "110" : {
@@ -184,7 +180,7 @@
       "description" : "TBD",
       "id" : 110,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Mobile" ],
       "title" : "API.API Overview"
     },
     "111" : {
@@ -192,7 +188,7 @@
       "description" : "TBD",
       "id" : 111,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Mobile" ],
       "title" : "AR/VR Overview"
     },
     "112" : {
@@ -200,7 +196,7 @@
       "description" : "TBD",
       "id" : 112,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Web" ],
       "title" : "Building your own voice activated IoT device with Google Assistant"
     },
     "113" : {
@@ -208,21 +204,21 @@
       "description" : "TBD",
       "id" : 113,
       "speakers" : [ ],
-      "tags" : [ "Workshop" ],
+      "tags" : [ "Workshop", "Web" ],
       "title" : "Firebase Workshop"
     },
     "114" : {
       "description" : "TBD",
       "id" : 114,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Business" ],
       "title" : "The future of business: DX with Google Technology"
     },
     "115" : {
       "description" : "TBD",
       "id" : 115,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Mobile" ],
       "title" : "Android Updates"
     },
     "116" : {
@@ -230,21 +226,21 @@
       "description" : "TBD",
       "id" : 116,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Web" ],
       "title" : "Mobile Web and the Mobile Sites Certification"
     },
     "117" : {
       "description" : "TBD",
       "id" : 117,
       "speakers" : [ ],
-      "tags" : [ "Panel" ],
+      "tags" : [ "Panel", "Web" ],
       "title" : "Panel: The future of the Web from Web Developers"
     },
     "118" : {
       "description" : "TBD",
       "id" : 118,
       "speakers" : [ ],
-      "tags" : [ "Panel" ],
+      "tags" : [ "Panel", "Mobile" ],
       "title" : "Panel: Android Development++"
     },
     "119" : {
@@ -252,7 +248,7 @@
       "description" : "TBD",
       "id" : 119,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Cloud" ],
       "title" : "Getting started with Cloud Firestore"
     },
     "120" : {
@@ -260,7 +256,7 @@
       "description" : "TBD",
       "id" : 120,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Web" ],
       "title" : "Progressive Web Apps"
     },
     "121" : {
@@ -274,7 +270,7 @@
       "description" : "TBD",
       "id" : 122,
       "speakers" : [ ],
-      "tags" : [ "Panel" ],
+      "tags" : [ "Panel", "Mobile" ],
       "title" : "Panel: Mobile Development, Virtual Reality, and Internet of Things"
     },
     "123" : {
@@ -290,7 +286,7 @@
       "description" : "TBD",
       "id" : 124,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Web" ],
       "title" : "Accelerated Mobile Pages"
     },
     "125" : {
@@ -334,7 +330,7 @@
       "description" : "TBD",
       "id" : 130,
       "speakers" : [ ],
-      "tags" : [ "Workshop" ],
+      "tags" : [ "Workshop", "Business" ],
       "title" : "Design Sprint / Design Thinking Workshop"
     },
     "131" : {
@@ -342,7 +338,7 @@
       "description" : "TBD",
       "id" : 131,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Business" ],
       "title" : "GSuite hacks for productivity"
     },
     "132" : {
@@ -366,16 +362,17 @@
       "title" : "Afterparty"
     },
     "137" : {
-      "description": "TBD",
-      "id": 137,
-      "title": "Youtube"
+      "description" : "TBD",
+      "id" : 137,
+      "tags" : [ "Business" ],
+      "title" : "Youtube"
     },
     "138" : {
       "complexity" : "Intermediate",
       "description" : "TBD",
       "id" : 138,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Workshop", "Mobile" ],
       "title" : "Workshop: Android Kotlin"
     },
     "139" : {
@@ -383,7 +380,7 @@
       "description" : "TBD",
       "id" : 139,
       "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Web" ],
       "title" : "Code in the Dark: Frontend Meet"
     }
   },
