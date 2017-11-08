@@ -129,14 +129,14 @@
       "description": "TBD",
       "id": 102,
       "speakers": [ 1 ],
-      "tags": [ "Keynote" ],
+      "tags": [ "Community" ],
       "title": "Keynote: Empowering Developers and Entrepreneurs"
     },
     "103": {
       "description": "TBD",
       "id": 103,
       "speakers": [ 2 ],
-      "tags": [ "Keynote" ],
+      "tags": [ ],
       "title": "Keynote: Google Developer Tools and Platform"
     },
     "104": {
@@ -150,14 +150,14 @@
       "description": "TBD",
       "id": 105,
       "speakers": [ ],
-      "tags": [ "Panel" ],
+      "tags": [ ],
       "title": "Panel: How can we make our developers better?"
     },
     "106": {
       "description": "TBD",
       "id": 106,
       "speakers": [ ],
-      "tags": [ "Panel" ],
+      "tags": [ ],
       "title": "Panel: Entrepreneur Mindset"
     },
     "107": {
@@ -199,14 +199,14 @@
       "description": "TBD",
       "id": 112,
       "speakers": [ 6 ],
-      "tags": [ "Sponsored" ],
+      "tags": [ ],
       "title": "Circular Economy"
     },
     "113": {
       "description": "TBD",
       "id": 113,
       "speakers": [ ],
-      "tags": [ "Panel" ],
+      "tags": [ ],
       "title": "Panel: The Future of Web Development"
     },
     "114": {
@@ -220,7 +220,7 @@
       "description": "TBD",
       "id": 115,
       "speakers": [ ],
-      "tags": [ "Sponsored" ],
+      "tags": [ ],
       "title": "Digital Transformation"
     },
     "116": {
@@ -234,84 +234,84 @@
       "description": "TBD",
       "id": 117,
       "speakers": [ 6 ],
-      "tags": [ "Talk", "Cloud", "Firebase" ],
+      "tags": [ "Firebase", "Cloud" ],
       "title": "Getting Started with Cloud Firestore"
     },
     "118": {
       "description": "TBD",
       "id": 118,
       "speakers": [ 8, 9 ],
-      "tags": [ "Workshop", "Firebase" ],
+      "tags": [ "Firebase", "Workshop" ],
       "title": "Firebase Workshop"
     },
     "119": {
       "description": "TBD",
       "id": 119,
       "speakers": [ 7 ],
-      "tags": [ "Talk" ],
+      "tags": [ "Cloud" ],
       "title": "Google Assistant with API.API"
     },
     "120": {
       "description": "TBD",
       "id": 120,
       "speakers": [ 10 ],
-      "tags": [ ],
+      "tags": [ "Web" ],
       "title": "Code in the Dark: Frontend Activity"
     },
     "121": {
       "description": "TBD",
       "id": 121,
       "speakers": [ 11 ],
-      "tags": [ "Talk", "Web" ],
+      "tags": [ "Web", "Talk" ],
       "title": "New Web APIs Overview"
     },
     "122": {
       "description": "TBD",
       "id": 122,
       "speakers": [ 12 ],
-      "tags": [ "Talk", "Firebase" ],
+      "tags": [ "Firebase", "Talk" ],
       "title": "Google Assistant and Firebase: Cocktail Mixer"
     },
     "123": {
       "description": "TBD",
       "id": 123,
       "speakers": [ 13 ],
-      "tags": [ "Talk", "Cloud" ],
+      "tags": [ "Cloud", "Talk" ],
       "title": "Getting Up to Speed with Google Container Engine"
     },
     "124": {
       "description": "TBD",
       "id": 124,
       "speakers": [ 14 ],
-      "tags": [ "Talk", "Android" ],
+      "tags": [ "Android", "Talk" ],
       "title": "Android Updates"
     },
     "125": {
       "description": "TBD",
       "id": 125,
       "speakers": [ 15 ],
-      "tags": [ "Workshop", "Android" ],
+      "tags": [ "Android", "Workshop" ],
       "title": "Android Kotlin Workshop"
     },
     "126": {
       "description": "TBD",
       "id": 126,
       "speakers": [ 16 ],
-      "tags": [ "Workshop" ],
+      "tags": [ ],
       "title": "Design Sprint / Design Thinking Workshop"
     },
     "127": {
       "description": "TBD",
       "id": 127,
       "speakers": [ 12, 17 ],
-      "tags": [ "Talk", "Web" ],
+      "tags": [ "Angular JS", "Talk" ],
       "title": "Angular Fire Live Live Live Demo"
     },
     "128": {
       "description": "TBD",
       "id": 128,
       "speakers": [ 17 ],
-      "tags": [ "Workshop", "Web" ],
+      "tags": [ "Angular JS", "Workshop" ],
       "title": "Learning Angular with TicTacToe"
     },
     "129": {
