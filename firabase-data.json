@@ -128,14 +128,14 @@
     "102": {
       "description": "TBD",
       "id": 102,
-      "speakers": [ ],
+      "speakers": [ 1 ],
       "tags": [ "Keynote" ],
       "title": "Keynote: Empowering Developers and Entrepreneurs"
     },
     "103": {
       "description": "TBD",
       "id": 103,
-      "speakers": [ ],
+      "speakers": [ 2 ],
       "tags": [ "Keynote" ],
       "title": "Keynote: Google Developer Tools and Platform"
     },
@@ -177,28 +177,28 @@
     "109": {
       "description": "TBD",
       "id": 109,
-      "speakers": [ ],
+      "speakers": [ 3 ],
       "tags": [ ],
       "title": "Launching of WomenWill"
     },
     "110": {
       "description": "TBD",
       "id": 110,
-      "speakers": [ ],
+      "speakers": [ 3, 4 ],
       "tags": [ ],
       "title": "The Future of Business - DX with Google Technology"
     },
     "111": {
       "description": "TBD",
       "id": 111,
-      "speakers": [ ],
+      "speakers": [ 5 ],
       "tags": [ ],
       "title": "Youtube"
     },
     "112": {
       "description": "TBD",
       "id": 112,
-      "speakers": [ ],
+      "speakers": [ 6 ],
       "tags": [ "Sponsored" ],
       "title": "Circular Economy"
     },
@@ -233,84 +233,84 @@
     "117": {
       "description": "TBD",
       "id": 117,
-      "speakers": [ ],
+      "speakers": [ 6 ],
       "tags": [ "Talk", "Cloud", "Firebase" ],
       "title": "Getting Started with Cloud Firestore"
     },
     "118": {
       "description": "TBD",
       "id": 118,
-      "speakers": [ ],
+      "speakers": [ 8, 9 ],
       "tags": [ "Workshop", "Firebase" ],
       "title": "Firebase Workshop"
     },
     "119": {
       "description": "TBD",
       "id": 119,
-      "speakers": [ ],
+      "speakers": [ 7 ],
       "tags": [ "Talk" ],
       "title": "Google Assistant with API.API"
     },
     "120": {
       "description": "TBD",
       "id": 120,
-      "speakers": [ ],
+      "speakers": [ 10 ],
       "tags": [ ],
       "title": "Code in the Dark: Frontend Activity"
     },
     "121": {
       "description": "TBD",
       "id": 121,
-      "speakers": [ ],
+      "speakers": [ 11 ],
       "tags": [ "Talk", "Web" ],
       "title": "New Web APIs Overview"
     },
     "122": {
       "description": "TBD",
       "id": 122,
-      "speakers": [ ],
+      "speakers": [ 12 ],
       "tags": [ "Talk", "Firebase" ],
       "title": "Google Assistant and Firebase: Cocktail Mixer"
     },
     "123": {
       "description": "TBD",
       "id": 123,
-      "speakers": [ ],
+      "speakers": [ 13 ],
       "tags": [ "Talk", "Cloud" ],
       "title": "Getting Up to Speed with Google Container Engine"
     },
     "124": {
       "description": "TBD",
       "id": 124,
-      "speakers": [ ],
+      "speakers": [ 14 ],
       "tags": [ "Talk", "Android" ],
       "title": "Android Updates"
     },
     "125": {
       "description": "TBD",
       "id": 125,
-      "speakers": [ ],
+      "speakers": [ 15 ],
       "tags": [ "Workshop", "Android" ],
       "title": "Android Kotlin Workshop"
     },
     "126": {
       "description": "TBD",
       "id": 126,
-      "speakers": [ ],
+      "speakers": [ 16 ],
       "tags": [ "Workshop" ],
       "title": "Design Sprint / Design Thinking Workshop"
     },
     "127": {
       "description": "TBD",
       "id": 127,
-      "speakers": [ ],
+      "speakers": [ 12, 17 ],
       "tags": [ "Talk", "Web" ],
       "title": "Angular Fire Live Live Live Demo"
     },
     "128": {
       "description": "TBD",
       "id": 128,
-      "speakers": [ ],
+      "speakers": [ 17 ],
       "tags": [ "Workshop", "Web" ],
       "title": "Learning Angular with TicTacToe"
     },
@@ -365,7 +365,7 @@
     "country" : "",
     "featured" : true,
     "id" : 2,
-    "name" : "Manikanta Krishnamurthy",
+    "name" : "Manikantan Krishnamurthy",
     "photoUrl" : "/images/people/mani_krish.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
