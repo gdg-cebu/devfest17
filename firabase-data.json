@@ -40,348 +40,307 @@
       "startTime" : "11:00"
     }, {
       "endTime" : "12:20",
-      "sessions" : [ [ 104 ] ],
+      "sessions" : [ [ 107 ] ],
       "startTime" : "11:40"
     }, {
       "endTime" : "13:00",
-      "sessions" : [ [ 107 ] ],
+      "sessions" : [ [ 108 ] ],
       "startTime" : "12:20"
     }, {
       "endTime" : "13:20",
-      "sessions" : [ [ 109 ], [ 110 ], [ 119 ], [ 120 ], [ 130 ] ],
+      "sessions" : [ [ 109 ], [ 117 ], [ 121 ], [ 126 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "13:40",
-      "sessions" : [ [ 109 ], [ 111 ], [ 119 ], [ 120 ], [ 130 ] ],
+      "sessions" : [ [ 110 ], [ 117 ], [ 122 ], [ 126 ] ],
       "startTime" : "13:20"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 114 ], [ 115 ], [ 119 ], [ 123 ], [ 130 ] ],
+      "sessions" : [ [ 110 ], [ 118 ], [ 122 ], [ 126 ] ],
       "startTime" : "13:40"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 114 ], [ 118 ], [ 112 ], [ 123 ], [ 130 ] ],
+      "sessions" : [ [ 111 ], [ 118 ], [ 122 ], [ 126 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "14:40",
-      "sessions" : [ [ 137 ], [ 118 ], [ 112 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 112 ], [ 118 ], [ 123 ], [ 126 ] ],
       "startTime" : "14:20"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 121 ], [ 122 ], [ 124 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 113 ], [ 119 ], [ 123 ], [ 126 ] ],
       "startTime" : "14:40"
     }, {
       "endTime" : "15:20",
-      "sessions" : [ [ 125 ], [ 122 ], [ 117 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 113 ], [ 120 ], [ 124 ], [ 127 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "15:40",
-      "sessions" : [ [ 125 ], [ 138 ], [ 117 ], [ 113 ], [ 130 ] ],
+      "sessions" : [ [ 114 ], [ 120 ], [ 125 ], [ 127 ] ],
       "startTime" : "15:20"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 126 ], [ 138 ], [ 139 ], [ 116 ], [ 131 ] ],
+      "sessions" : [ [ 115 ], [ 120 ], [ 125 ], [ 128 ] ],
       "startTime" : "15:40"
     }, {
       "endTime" : "16:20",
-      "sessions" : [ [ 126 ], [ 138 ], [ 139 ], [ 116 ], [ 131 ] ],
+      "sessions" : [ [ 116 ], [ 116 ], [ 125 ], [ 128 ] ],
       "startTime" : "16:00"
     }, {
-      "endTime" : "17:00",
-      "sessions" : [ [ 132 ] ],
+      "endTime" : "16:40",
+      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 128 ] ],
       "startTime" : "16:20"
     }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 128 ] ],
+      "startTime" : "16:40"
+    }, {
       "endTime" : "17:20",
-      "sessions" : [ [ 133 ] ],
+      "sessions" : [ [ 130 ] ],
       "startTime" : "17:00"
     }, {
-      "endTime" : "18:00",
-      "sessions" : [ [ 134 ] ],
+      "endTime" : "17:40",
+      "sessions" : [ [ 131 ] ],
       "startTime" : "17:20"
     }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 135 ] ],
-      "startTime" : "18:00"
+      "endTime": "18:00",
+      "sessions": [ [ 132 ] ],
+      "startTime": "17:40"
     } ],
     "tracks" : [ {
-      "title" : "Hall A"
+      "title" : "Hall A: Main Hall"
     }, {
       "title" : "Hall B"
     }, {
       "title" : "Hall C"
     }, {
       "title": "Breakout 2"
-    }, {
-      "title": "Breakout 3"
     } ]
   }],
   "sessions" : {
-    "101" : {
-      "description" : "TBD",
-      "id" : 101,
-      "speakers" : [ ],
-      "title" : "GDG DevFest Cebu 2017 Welcome Address"
+    "101": {
+      "description": "TBD",
+      "id": 101,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "GDG DevFest Cebu 2017 Welcome Address"
     },
-    "102" : {
-      "description" : "TBD",
-      "id" : 102,
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Keynote: Empowering Developers and Entrepreneurs"
+    "102": {
+      "description": "TBD",
+      "id": 102,
+      "speakers": [ ],
+      "tags": [ "Keynote" ],
+      "title": "Keynote: Empowering Developers and Entrepreneurs"
     },
-    "103" : {
-      "description" : "TBD",
-      "id" : 103,
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Keynote: AI and what it means for the Philippines"
+    "103": {
+      "description": "TBD",
+      "id": 103,
+      "speakers": [ ],
+      "tags": [ "Keynote" ],
+      "title": "Keynote: Google Developer Tools and Platform"
     },
     "104": {
       "description": "TBD",
       "id": 104,
       "speakers": [ ],
       "tags": [ ],
+      "title": "[ ACCENTURE TALK ]"
+    },
+    "105": {
+      "description": "TBD",
+      "id": 105,
+      "speakers": [ ],
+      "tags": [ "Panel" ],
+      "title": "Panel: How can we make our developers better?"
+    },
+    "106": {
+      "description": "TBD",
+      "id": 106,
+      "speakers": [ ],
+      "tags": [ "Panel" ],
+      "title": "Panel: Entrepreneur Mindset"
+    },
+    "107": {
+      "description": "TBD",
+      "id": 107,
+      "speakers": [ ],
+      "tags": [ ],
       "title": "Design Sprint Reverse Pitching"
     },
-    "105" : {
-      "description" : "TBD",
-      "id" : 105,
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: How can we make every developer better?"
-    },
-    "106" : {
-      "description" : "TBD",
-      "id" : 106,
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: Entrepreneur Mindset"
-    },
-    "107" : {
-      "description" : "Foooooooood!",
-      "id" : 107,
-      "title" : "Lunch"
-    },
-    "108" : {
-      "description" : "TBD",
-      "id" : 108,
+    "108": {
+      "description": "TBD",
+      "id": 108,
+      "speakers": [ ],
       "tags": [ ],
-      "title" : "Reverse Pitching"
+      "title": "Lunch"
     },
-    "109" : {
-      "description" : "TBD",
-      "id" : 109,
-      "speakers" : [ ],
-      "tags" : [ "Business" ],
-      "title" : "Launching of WomenWill"
+    "109": {
+      "description": "TBD",
+      "id": 109,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Launching of WomenWill"
     },
-    "110" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 110,
-      "speakers" : [ ],
-      "tags" : [ "Mobile" ],
-      "title" : "API.API Overview"
+    "110": {
+      "description": "TBD",
+      "id": 110,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "The Future of Business - DX with Google Technology"
     },
-    "111" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 111,
-      "speakers" : [ ],
-      "tags" : [ "Mobile" ],
-      "title" : "AR/VR Overview"
+    "111": {
+      "description": "TBD",
+      "id": 111,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Youtube"
     },
-    "112" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 112,
-      "speakers" : [ ],
-      "tags" : [ "Web" ],
-      "title" : "Building your own voice activated IoT device with Google Assistant"
+    "112": {
+      "description": "TBD",
+      "id": 112,
+      "speakers": [ ],
+      "tags": [ "Sponsored" ],
+      "title": "Circular Economy"
     },
-    "113" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 113,
-      "speakers" : [ ],
-      "tags" : [ "Workshop", "Web" ],
-      "title" : "Firebase Workshop"
+    "113": {
+      "description": "TBD",
+      "id": 113,
+      "speakers": [ ],
+      "tags": [ "Panel" ],
+      "title": "Panel: The Future of Web Development"
     },
-    "114" : {
-      "description" : "TBD",
-      "id" : 114,
-      "speakers" : [ ],
-      "tags" : [ "Business" ],
-      "title" : "The future of business: DX with Google Technology"
+    "114": {
+      "description": "TBD",
+      "id": 114,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "[ ACCENTURE BREAKOUT ]"
     },
-    "115" : {
-      "description" : "TBD",
-      "id" : 115,
-      "speakers" : [ ],
-      "tags" : [ "Mobile" ],
-      "title" : "Android Updates"
+    "115": {
+      "description": "TBD",
+      "id": 115,
+      "speakers": [ ],
+      "tags": [ "Sponsored" ],
+      "title": "Digital Transformation"
     },
-    "116" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 116,
-      "speakers" : [ ],
-      "tags" : [ "Web" ],
-      "title" : "Mobile Web and the Mobile Sites Certification"
+    "116": {
+      "description": "TBD",
+      "id": 116,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Business Matching / Office Hours"
     },
-    "117" : {
-      "description" : "TBD",
-      "id" : 117,
-      "speakers" : [ ],
-      "tags" : [ "Panel", "Web" ],
-      "title" : "Panel: The future of the Web from Web Developers"
+    "117": {
+      "description": "TBD",
+      "id": 117,
+      "speakers": [ ],
+      "tags": [ "Talk", "Cloud", "Firebase" ],
+      "title": "Getting Started with Cloud Firestore"
     },
-    "118" : {
-      "description" : "TBD",
-      "id" : 118,
-      "speakers" : [ ],
-      "tags" : [ "Panel", "Mobile" ],
-      "title" : "Panel: Android Development++"
+    "118": {
+      "description": "TBD",
+      "id": 118,
+      "speakers": [ ],
+      "tags": [ "Workshop", "Firebase" ],
+      "title": "Firebase Workshop"
     },
-    "119" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 119,
-      "speakers" : [ ],
-      "tags" : [ "Cloud" ],
-      "title" : "Getting started with Cloud Firestore"
+    "119": {
+      "description": "TBD",
+      "id": 119,
+      "speakers": [ ],
+      "tags": [ "Talk" ],
+      "title": "Google Assistant with API.API"
     },
-    "120" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 120,
-      "speakers" : [ ],
-      "tags" : [ "Web" ],
-      "title" : "Progressive Web Apps"
+    "120": {
+      "description": "TBD",
+      "id": 120,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Code in the Dark: Frontend Activity"
     },
-    "121" : {
-      "description" : "TBD",
-      "id" : 121,
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "Circular Economy"
+    "121": {
+      "description": "TBD",
+      "id": 121,
+      "speakers": [ ],
+      "tags": [ "Talk", "Web" ],
+      "title": "New Web APIs Overview"
     },
-    "122" : {
-      "description" : "TBD",
-      "id" : 122,
-      "speakers" : [ ],
-      "tags" : [ "Panel", "Mobile" ],
-      "title" : "Panel: Mobile Development, Virtual Reality, and Internet of Things"
+    "122": {
+      "description": "TBD",
+      "id": 122,
+      "speakers": [ ],
+      "tags": [ "Talk", "Firebase" ],
+      "title": "Google Assistant and Firebase: Cocktail Mixer"
     },
-    "123" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 123,
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "TensorFlow and Machine Learning Overview"
+    "123": {
+      "description": "TBD",
+      "id": 123,
+      "speakers": [ ],
+      "tags": [ "Talk", "Cloud" ],
+      "title": "Getting Up to Speed with Google Container Engine"
     },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 124,
-      "speakers" : [ ],
-      "tags" : [ "Web" ],
-      "title" : "Accelerated Mobile Pages"
+    "124": {
+      "description": "TBD",
+      "id": 124,
+      "speakers": [ ],
+      "tags": [ "Talk", "Android" ],
+      "title": "Android Updates"
     },
-    "125" : {
-      "description" : "TBD",
-      "id" : 125,
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: Taking risks - Developers + Entrepreneurs"
+    "125": {
+      "description": "TBD",
+      "id": 125,
+      "speakers": [ ],
+      "tags": [ "Workshop", "Android" ],
+      "title": "Android Kotlin Workshop"
     },
-    "126" : {
-      "description" : "TBD",
-      "id" : 126,
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "Business Matching / Office Hours"
+    "126": {
+      "description": "TBD",
+      "id": 126,
+      "speakers": [ ],
+      "tags": [ "Workshop" ],
+      "title": "Design Sprint / Design Thinking Workshop"
     },
-    "127" : {
-      "description" : "TBD",
-      "id" : 127,
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: Frontend Design Culture"
+    "127": {
+      "description": "TBD",
+      "id": 127,
+      "speakers": [ ],
+      "tags": [ "Talk", "Web" ],
+      "title": "Angular Fire Live Live Live Demo"
     },
-    "128" : {
-      "description" : "TBD",
-      "id" : 128,
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "Google Small Business"
+    "128": {
+      "description": "TBD",
+      "id": 128,
+      "speakers": [ ],
+      "tags": [ "Workshop", "Web" ],
+      "title": "Learning Angular with TicTacToe"
     },
-    "129" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 129,
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "AdWords"
+    "129": {
+      "description": "TBD",
+      "id": 129,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Final Pitching"
     },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 130,
-      "speakers" : [ ],
-      "tags" : [ "Workshop", "Business" ],
-      "title" : "Design Sprint / Design Thinking Workshop"
+    "130": {
+      "description": "TBD",
+      "id": 130,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Closing Remarks"
     },
-    "131" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 131,
-      "speakers" : [ ],
-      "tags" : [ "Business" ],
-      "title" : "GSuite hacks for productivity"
+    "131": {
+      "description": "TBD",
+      "id": 131,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "Group Photoshoot"
     },
-    "132" : {
-      "description" : "TBD",
-      "id" : 132,
-      "title" : "Final Pitching"
-    },
-    "133" : {
-      "description" : "TBD",
-      "id" : 133,
-      "title" : "Closing Remarks"
-    },
-    "134" : {
-      "description" : "TBD",
-      "id" : 134,
-      "title" : "Group Photoshoot"
-    },
-    "135" : {
-      "description" : "Party party!",
-      "id" : 135,
-      "title" : "Afterparty"
-    },
-    "137" : {
-      "description" : "TBD",
-      "id" : 137,
-      "tags" : [ "Business" ],
-      "title" : "Youtube"
-    },
-    "138" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 138,
-      "speakers" : [ ],
-      "tags" : [ "Workshop", "Mobile" ],
-      "title" : "Workshop: Android Kotlin"
-    },
-    "139" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 139,
-      "speakers" : [ ],
-      "tags" : [ "Web" ],
-      "title" : "Code in the Dark: Frontend Meet"
+    "132": {
+      "description": "TBD",
+      "id": 132,
+      "speakers": [ ],
+      "tags": [ ],
+      "title": "After Party"
     }
   },
   "speakers" : [ null, {
