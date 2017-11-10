@@ -282,7 +282,7 @@
     "124": {
       "description": "TBD",
       "id": 124,
-      "speakers": [ 14 ],
+      "speakers": [ ],
       "tags": [ "Android", "Talk" ],
       "title": "Android Updates"
     },
