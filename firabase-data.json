@@ -5,15 +5,64 @@
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/",
       "width" : 170
+    }, {
+      "logoUrl": "../images/logos/gdg-cebu.png",
+      "name": "GDG Cebu",
+      "width": 170
+    }, {
+      "logoUrl": "../images/logos/gbg-cebu.png",
+      "name": "GBG Cebu",
+      "width": 170
     } ],
-    "title" : "General Partner"
+    "title" : "Brought to you by"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/symph.png",
-      "name" : "Symph",
-      "url" : "http://sym.ph/"
+      "logoUrl" : "../images/logos/accenture.jpg",
+      "name" : "Accenture PH"
     } ],
-    "title" : "Supported by"
+    "title" : "Presented by"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/nerubia.png",
+      "name": "Nerubia"
+    } ],
+    "title": "Co-presented by"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/symph.png",
+      "name": "Symph"
+    }, {
+      "logoUrl": "../images/logos/mlhuillier.png",
+      "name": "M Lhuillier"
+    }, {
+      "logoUrl": "../images/logos/guinto.jpg",
+      "name": "Guinto Sounds and Lights"
+    } ],
+    "title": "Special thanks to"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/j-centre-mall.jpg",
+      "name": "JCentre Convention Hall"
+    } ],
+    "title": "Official venue partner"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/gracelle-catering.png",
+      "name": "Gracelle's Catering"
+    } ],
+    "title": "Official catering provider"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/innolab.png",
+      "name": "PLDT Innolab"
+    } ],
+    "title": "Official Internet provider"
+  }, {
+    "logos": [ {
+      "logoUrl": "../images/logos/prworks.jpg",
+      "name": "PR Works"
+    } ],
+    "title": "Official PR Partner"
   } ],
   "schedule" : [ {
     "date" : "2017-11-18",
