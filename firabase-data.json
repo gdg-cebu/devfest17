@@ -53,12 +53,6 @@
     "title": "Official Venue Provider"
   }, {
     "logos": [ {
-      "logoUrl": "../images/logos/gracelle-catering.png",
-      "name": "Gracelle's Catering"
-    } ],
-    "title": "Official Catering Provider"
-  }, {
-    "logos": [ {
       "logoUrl": "../images/logos/innolab.png",
       "name": "PLDT Innolab"
     } ],
