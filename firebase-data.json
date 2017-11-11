@@ -248,7 +248,7 @@
       "description": "TBD",
       "id": 112,
       "speakers": [ 6 ],
-      "tags": [ ],
+      "tags": [ 27 ],
       "title": "Circular Economy"
     },
     "113": {
@@ -738,6 +738,20 @@
     "id" : 26,
     "name" : "Gerard Echiverri",
     "photoUrl" : "/images/people/gerard_echiverri.jpg",
+    "shortBio" : "TBD",
+    "socials" : [ ],
+    "tags" : [ ],
+    "title" : ""
+  }, {
+    "badges": [ ],
+    "bio" : "TBD",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Philippines",
+    "featured" : true,
+    "id" : 27,
+    "name" : "Carlo Delantar",
+    "photoUrl" : "/images/people/carlo_delantar.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
