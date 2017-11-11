@@ -1,11 +1,14 @@
 {
   "partners" : [ {
+    "logos": [ {
+      "logoUrl": "../images/logos/google.svg",
+      "name": "Google",
+      "url": "https://www.google.com.ua/intl/en/about/",
+      "width": 170
+    } ],
+    "title": "General Sponsor"
+  }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/",
-      "width" : 170
-    }, {
       "logoUrl": "../images/logos/gdg-cebu.png",
       "name": "GDG Cebu",
       "width": 170
@@ -23,14 +26,17 @@
     "title" : "Presented by"
   }, {
     "logos": [ {
-      "logoUrl": "../images/logos/nerubia.png",
-      "name": "Nerubia"
+      "logoUrl": "../images/logos/dti.jpg",
+      "name": "DTI"
     } ],
-    "title": "Co-presented by"
+    "title": "Co-Presented by"
   }, {
     "logos": [ {
       "logoUrl": "../images/logos/symph.png",
       "name": "Symph"
+    }, {
+      "logoUrl": "../images/logos/nerubia.png",
+      "name": "Nerubia"
     }, {
       "logoUrl": "../images/logos/mlhuillier.png",
       "name": "M Lhuillier"
@@ -38,25 +44,25 @@
       "logoUrl": "../images/logos/guinto.jpg",
       "name": "Guinto Sounds and Lights"
     } ],
-    "title": "Special thanks to"
+    "title": "Special Thanks to"
   }, {
     "logos": [ {
       "logoUrl": "../images/logos/j-centre-mall.jpg",
       "name": "JCentre Convention Hall"
     } ],
-    "title": "Official venue partner"
+    "title": "Official Venue Provider"
   }, {
     "logos": [ {
       "logoUrl": "../images/logos/gracelle-catering.png",
       "name": "Gracelle's Catering"
     } ],
-    "title": "Official catering provider"
+    "title": "Official Catering Provider"
   }, {
     "logos": [ {
       "logoUrl": "../images/logos/innolab.png",
       "name": "PLDT Innolab"
     } ],
-    "title": "Official Internet provider"
+    "title": "Official Internet Provider"
   }, {
     "logos": [ {
       "logoUrl": "../images/logos/prworks.jpg",
