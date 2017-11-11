@@ -68,17 +68,21 @@
     "date" : "2017-11-18",
     "dateReadable" : "November 18",
     "timeslots" : [ {
-      "endTime" : "09:20",
+      "endTime" : "09:00",
       "sessions" : [ [ 101 ] ],
+      "startTime" : "08:50"
+    }, {
+      "endTime" : "09:30",
+      "sessions" : [ [ 102 ] ],
       "startTime" : "09:00"
     }, {
-      "endTime" : "09:50",
-      "sessions" : [ [ 102 ] ],
-      "startTime" : "09:20"
+      "endTime" : "10:00",
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "09:30"
     }, {
       "endTime" : "10:20",
-      "sessions" : [ [ 103 ] ],
-      "startTime" : "09:50"
+      "sessions" : [ [ 104 ] ],
+      "startTime" : "10:00"
     }, {
       "endTime" : "11:00",
       "sessions" : [ [ 105 ] ],
@@ -97,51 +101,51 @@
       "startTime" : "12:20"
     }, {
       "endTime" : "13:20",
-      "sessions" : [ [ 109 ], [ 117 ], [ 121 ], [ 126 ] ],
+      "sessions" : [ [ 109 ], [ 117 ], [ 123 ], [ 126 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "13:40",
-      "sessions" : [ [ 110 ], [ 117 ], [ 122 ], [ 126 ] ],
+      "sessions" : [ [ 110 ], [ 117 ], [ 123 ], [ 126 ] ],
       "startTime" : "13:20"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 110 ], [ 118 ], [ 122 ], [ 126 ] ],
+      "sessions" : [ [ 112 ], [ 118 ], [ 121 ], [ 126 ] ],
       "startTime" : "13:40"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 111 ], [ 118 ], [ 122 ], [ 126 ] ],
+      "sessions" : [ [ 112 ], [ 118 ], [ 122 ], [ 126 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "14:40",
-      "sessions" : [ [ 112 ], [ 118 ], [ 123 ], [ 126 ] ],
+      "sessions" : [ [ 113 ], [ 118 ], [ 122 ], [ 126 ] ],
       "startTime" : "14:20"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 113 ], [ 119 ], [ 123 ], [ 126 ] ],
+      "sessions" : [ [ 113 ], [ 133 ], [ 122 ], [ 126 ] ],
       "startTime" : "14:40"
     }, {
       "endTime" : "15:20",
-      "sessions" : [ [ 113 ], [ 120 ], [ 124 ], [ 127 ] ],
+      "sessions" : [ [ 114 ], [ 133 ], [ 127 ], [ 124 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "15:40",
-      "sessions" : [ [ 114 ], [ 120 ], [ 125 ], [ 127 ] ],
+      "sessions" : [ [ 115 ], [ 119 ], [ 127 ], [ 125 ] ],
       "startTime" : "15:20"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 115 ], [ 120 ], [ 125 ], [ 128 ] ],
+      "sessions" : [ [ 115 ], [ 120 ], [ 128 ], [ 125 ] ],
       "startTime" : "15:40"
     }, {
       "endTime" : "16:20",
-      "sessions" : [ [ 116 ], [ 116 ], [ 125 ], [ 128 ] ],
+      "sessions" : [ [ 116 ], [ 120 ], [ 128 ], [ 125 ] ],
       "startTime" : "16:00"
     }, {
       "endTime" : "16:40",
-      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 128 ] ],
+      "sessions" : [ [ 129 ] ],
       "startTime" : "16:20"
     }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 129 ], [ 129 ], [ 129 ], [ 128 ] ],
+      "sessions" : [ [ 129 ] ],
       "startTime" : "16:40"
     }, {
       "endTime" : "17:20",
@@ -191,29 +195,29 @@
     "104": {
       "description": "TBD",
       "id": 104,
-      "speakers": [ ],
-      "tags": [ ],
-      "title": "[ ACCENTURE TALK ]"
+      "speakers": [ 28 ],
+      "tags": [ "Business" ],
+      "title": "Industsry X.0: Embracing the Renew"
     },
     "105": {
       "description": "TBD",
       "id": 105,
       "speakers": [ 19, 20, 21 ],
-      "tags": [ ],
+      "tags": [ "Community" ],
       "title": "Panel: How can we make every developer better and competitive?"
     },
     "106": {
       "description": "TBD",
       "id": 106,
       "speakers": [ 22, 23, 24, 25 ],
-      "tags": [ ],
+      "tags": [ "Business" ],
       "title": "Panel: Entrepreneur Mindset"
     },
     "107": {
       "description": "TBD",
       "id": 107,
       "speakers": [ ],
-      "tags": [ ],
+      "tags": [ "Business" ],
       "title": "Design Sprint Reverse Pitching"
     },
     "108": {
@@ -227,56 +231,49 @@
       "description": "TBD",
       "id": 109,
       "speakers": [ 3 ],
-      "tags": [ ],
+      "tags": [ "Business" ],
       "title": "Launching of WomenWill"
     },
     "110": {
       "description": "TBD",
       "id": 110,
-      "speakers": [ 3, 4 ],
-      "tags": [ ],
-      "title": "The Future of Business - DX with Google Technology"
-    },
-    "111": {
-      "description": "TBD",
-      "id": 111,
-      "speakers": [ 5 ],
-      "tags": [ ],
-      "title": "Youtube"
+      "speakers": [ 4 ],
+      "tags": [ "Business" ],
+      "title": "Adwords Express"
     },
     "112": {
       "description": "TBD",
       "id": 112,
-      "speakers": [ 6 ],
-      "tags": [ 27 ],
+      "speakers": [ 6, 27 ],
+      "tags": [ "Business" ],
       "title": "Circular Economy"
     },
     "113": {
       "description": "TBD",
       "id": 113,
       "speakers": [ 11, 17, 26 ],
-      "tags": [ ],
+      "tags": [ "Web" ],
       "title": "Panel: The Future of Web Development"
     },
     "114": {
       "description": "TBD",
       "id": 114,
-      "speakers": [ ],
-      "tags": [ ],
-      "title": "[ ACCENTURE BREAKOUT ]"
+      "speakers": [ 5 ],
+      "tags": [ "Cloud" ],
+      "title": "Data and Analytics"
     },
     "115": {
       "description": "TBD",
       "id": 115,
-      "speakers": [ ],
-      "tags": [ ],
-      "title": "Digital Transformation"
+      "speakers": [ 6 ],
+      "tags": [ "Cloud" ],
+      "title": "Google Cloud Platform"
     },
     "116": {
       "description": "TBD",
       "id": 116,
       "speakers": [ ],
-      "tags": [ ],
+      "tags": [ "Business" ],
       "title": "Business Matching / Office Hours"
     },
     "117": {
@@ -297,8 +294,8 @@
       "description": "TBD",
       "id": 119,
       "speakers": [ 7 ],
-      "tags": [ "Cloud" ],
-      "title": "Google Assistant with API.API"
+      "tags": [ "Web", "Talk" ],
+      "title": "Building Actions for Google Assistant"
     },
     "120": {
       "description": "TBD",
@@ -312,7 +309,7 @@
       "id": 121,
       "speakers": [ 11 ],
       "tags": [ "Web", "Talk" ],
-      "title": "New Web APIs Overview"
+      "title": "New Web Platform APIs"
     },
     "122": {
       "description": "TBD",
@@ -331,7 +328,7 @@
     "124": {
       "description": "TBD",
       "id": 124,
-      "speakers": [ ],
+      "speakers": [ 15 ],
       "tags": [ "Android", "Talk" ],
       "title": "Android Updates"
     },
@@ -346,21 +343,21 @@
       "description": "TBD",
       "id": 126,
       "speakers": [ 16 ],
-      "tags": [ ],
+      "tags": [ "Business" ],
       "title": "Design Sprint / Design Thinking Workshop"
     },
     "127": {
       "description": "TBD",
       "id": 127,
       "speakers": [ 12, 17 ],
-      "tags": [ "Angular JS", "Talk" ],
+      "tags": [ "Angular", "Talk" ],
       "title": "Angular Fire Live Live Live Demo"
     },
     "128": {
       "description": "TBD",
       "id": 128,
       "speakers": [ 17 ],
-      "tags": [ "Angular JS", "Workshop" ],
+      "tags": [ "Angular", "Workshop" ],
       "title": "Learning Angular with TicTacToe"
     },
     "129": {
@@ -390,6 +387,13 @@
       "speakers": [ ],
       "tags": [ ],
       "title": "After Party"
+    },
+    "133": {
+      "description": "TBD",
+      "id": 133,
+      "speakers": [ 29 ],
+      "tags": [ ],
+      "title": "Machine Learning using Google Technologies"
     }
   },
   "speakers" : [ null, {
@@ -451,17 +455,17 @@
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/google.svg",
-    "country" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Philippines",
     "featured" : true,
     "id" : 5,
-    "name" : "Erica Hanson",
-    "photoUrl" : "/images/people/erica_hanson.jpg",
+    "name" : "Elena Flores",
+    "photoUrl" : "/images/people/elena_flores.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Developer Relations Ecosystem Program Manager"
+    "title" : ""
   }, {
     "badges" : [ ],
     "bio" : "TBD",
@@ -661,8 +665,8 @@
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "Trax Technologies",
+    "companyLogo" : "/images/logos/trax.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 21,
@@ -752,6 +756,34 @@
     "id" : 27,
     "name" : "Carlo Delantar",
     "photoUrl" : "/images/people/carlo_delantar.jpg",
+    "shortBio" : "TBD",
+    "socials" : [ ],
+    "tags" : [ ],
+    "title" : ""
+  }, {
+    "badges": [ ],
+    "bio" : "TBD",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Philippines",
+    "featured" : true,
+    "id" : 28,
+    "name" : "JP Palpallatoc",
+    "photoUrl" : "/images/people/jp_palpallatoc.jpg",
+    "shortBio" : "TBD",
+    "socials" : [ ],
+    "tags" : [ ],
+    "title" : ""
+  }, {
+    "badges": [ ],
+    "bio" : "TBD",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Philippines",
+    "featured" : true,
+    "id" : 29,
+    "name" : "Ralph Regalado",
+    "photoUrl" : "/images/people/ralph_regalado.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
