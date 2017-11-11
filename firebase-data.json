@@ -721,8 +721,8 @@
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "CodeLogic Software Labs",
+    "companyLogo" : "/images/logos/codelogic.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 25,
@@ -731,7 +731,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Co-Founder"
   }, {
     "badges": [ ],
     "bio" : "TBD",
