@@ -438,7 +438,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "CEO"
+    "title" : "Founder, CEO"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -466,7 +466,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Director of Business Operations"
+    "title" : "Director of Business Operations and Digital Marketing"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -480,7 +480,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Special Operations"
+    "title" : "Special Operations and Digital Marketing"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -497,7 +497,7 @@
     "title" : ""
   }, {
     "badges" : [ ],
-    "bio" : "TBD",
+    "bio" : "First and only Google Expert in the Philippines",
     "company" : "Symph",
     "companyLogo" : "/images/logos/symph.png",
     "country" : "Philippines",
@@ -508,7 +508,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "CTO"
+    "title" : "Founder, CTO"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -522,7 +522,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Full Stack Developer"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -536,7 +536,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Project Lead / Web Developer"
+    "title" : "Project Lead, Web Developer"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -592,7 +592,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Software Developer"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -606,7 +606,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Co-Founder of Cleverheat Thermal Technologies"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -634,12 +634,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "UI/UX Designer and Developer"
+    "title" : "Product Designer and Frontend Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "bio" : "Google Developer Expert",
+    "company" : "Randstad Malaysia",
+    "companyLogo" : "/images/logos/randstad.png",
     "country" : "Malaysia",
     "featured" : true,
     "id" : 17,
@@ -648,10 +648,10 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Software Architect, Frontend Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Chelle Gray is the former Google Developer Relations and Community Manager for the Philippines. She has been an inspiration of all communities in South east Asia for helping each to establish their own developer groups. Now, Chelle is connected Globe, one of the biggest telecommunication company in the Philippines.",
     "company" : "Globe",
     "companyLogo" : "/images/logos/globe.png",
     "country" : "Philippines",
@@ -666,7 +666,7 @@
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "DNA Micro",
+    "company" : "DNA Micro Outsourcing Inc.",
     "companyLogo" : "/images/logos/dna_micro.jpg",
     "country" : "Philippines",
     "featured" : true,
@@ -676,7 +676,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "VP or Engineering"
+    "title" : "Software Engineer"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -690,7 +690,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Software Architect"
+    "title" : "Senior Software Architect"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -718,7 +718,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Founder and CEO"
+    "title" : "Founder, CEO"
   }, {
     "badges": [ ],
     "bio" : "TBD",
@@ -732,10 +732,10 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Co-Founder and Managing Director"
+    "title" : "Founder, CEO"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Bryan is the Founder of Republiq Group of Companies (RGC) – a well-rounded full-service agency that offers a wide range of services from software development to marketing on a digital platform to video and animation needs. A few years into running his own businesses such as Froyo stalls, coupon incentive start-ups and interactive installations, Bryan drew learnings from these to build what he has been creating today. Although Bryan has had almost a decade of experiences in Technology, the local industry, and failures in the tech scene, he considers himself far from a Tech-industry expert, rather he considers himself as one of the several entrepreneurs treading this world of technology. The difference is, he believes his committed partners and passionate team will work with him in creating impact in the society. ",
     "company" : "Republiq Group of Companies",
     "companyLogo" : "/images/logos/rgc.png",
     "country" : "Philippines",
@@ -746,12 +746,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "CEO"
+    "title" : "Founder"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "CodeLogic Software Labs",
-    "companyLogo" : "/images/logos/codelogic.png",
+    "company" : "Sellax",
+    "companyLogo" : "/images/logos/sellax.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 25,
@@ -760,12 +760,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : "Co-Founder"
+    "title" : "Founder"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "IdeaRobin",
+    "companyLogo" : "/images/logos/idea_robin.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 26,
@@ -774,12 +774,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Founder"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "Waves for Water",
+    "companyLogo" : "/images/logos/waves_for_water.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 27,
@@ -788,12 +788,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Country Director"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "Accenture",
+    "companyLogo" : "/images/logos/accenture.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 28,
@@ -802,12 +802,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Senior Executive"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "SENTi TechLabs, Inc.",
+    "companyLogo" : "/images/logos/senti.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 29,
@@ -816,12 +816,12 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Founder, CEO"
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "Symph",
+    "companyLogo" : "/images/logos/symph.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 30,
@@ -830,7 +830,7 @@
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Android Developer"
   } ],
   "team" : [ {
     "members" : [ {
