@@ -271,7 +271,7 @@
       "id": 114,
       "speakers": [ 5 ],
       "tags": [ "Cloud" ],
-      "title": "Data and Analytics"
+      "title": "Data-powered Enterprise"
     },
     "115": {
       "description": "TBD",
@@ -301,7 +301,7 @@
       "description": "TBD",
       "id": 118,
       "image": "/images/sessions/118.jpg",
-      "speakers": [ 8, 9 ],
+      "speakers": [ 8 ],
       "tags": [ "Firebase", "Workshop" ],
       "title": "Firebase Workshop"
     },
@@ -484,17 +484,17 @@
   }, {
     "badges": [ ],
     "bio" : "TBD",
-    "company" : "",
-    "companyLogo" : "",
+    "company" : "Accenture",
+    "companyLogo" : "/images/logos/accenture.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 5,
-    "name" : "Elena Flores",
-    "photoUrl" : "/images/people/elena_flores.jpg",
+    "name" : "Lhen Aboga",
+    "photoUrl" : "/images/people/lhen_aboga.jpg",
     "shortBio" : "TBD",
     "socials" : [ ],
     "tags" : [ ],
-    "title" : ""
+    "title" : "Digital Data Engineering Manager"
   }, {
     "badges" : [ ],
     "bio" : "First and only Google Expert in the Philippines",
@@ -537,20 +537,6 @@
     "socials" : [ ],
     "tags" : [ ],
     "title" : "Project Lead, Web Developer"
-  }, {
-    "badges": [ ],
-    "bio" : "TBD",
-    "company" : "Channelfix",
-    "companyLogo" : "/images/logos/channelfix.png",
-    "country" : "Philippines",
-    "featured" : true,
-    "id" : 9,
-    "name" : "Kevin Calingacion",
-    "photoUrl" : "/images/people/kevin_calingacion.jpg",
-    "shortBio" : "TBD",
-    "socials" : [ ],
-    "tags" : [ ],
-    "title" : "Web Developer"
   }, {
     "badges": [ ],
     "bio" : "TBD",
