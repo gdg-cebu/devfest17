@@ -609,7 +609,7 @@
     "title" : "Android Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Justine Win is a Product Designer and Frontend Developer in a Cebu-based startup company, Symph. Her role as a design consultant allowed her to directly communicate with clients, understand their business problems, and solve these problems through Human-centered design.",
     "company" : "Symph",
     "companyLogo" : "/images/logos/symph.png",
     "country" : "Philippines",
@@ -763,9 +763,9 @@
     "title" : "Founder"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
-    "company" : "Waves for Water",
-    "companyLogo" : "/images/logos/waves_for_water.svg",
+    "bio" : "Carlo Delantar is an award-winning social entrepreneur working at the nexus of environmental opportunities and challenges in the Philippines. Co-Founder of Altum; A sustainable manufacturer of furniture and interior decor built on Circular Economy principles, Carlo collaborates with hotels, retailers and brands to bring designs from concept to form. Carlo is also the Country Director of Waves For Water (W4W), a global non-profit providing access to clean water. The aftermath of Typhoon Haiyan inspired Carlo to become involved in humanitarian efforts and through W4W, Carlo has helped over 1,000,000 individuals in remote communities across the Philippines set up rainwater storage and filtration systems. Awarded with the Development Award (second highest distinction for civilians) and the Bayanihan Award from President Duterte, Carlo is also recognized as a Top 30 under 30 innovator by numerous publications. Carlo was named a Global Shaper at the World Economic Forum and attended the World Economic Forum Annual Meeting in Davos in 2017 as the youngest male attendee.",
+    "company" : "ALTUM",
+    "companyLogo" : "/images/logos/altum.png",
     "country" : "Philippines",
     "featured" : true,
     "id" : 27,
