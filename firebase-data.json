@@ -201,7 +201,7 @@
       "image": "/images/sessions/104.jpg",
       "speakers": [ 28 ],
       "tags": [ "Business" ],
-      "title": "Industsry X.0: Embracing the Renew"
+      "title": "Industry X.0: Embracing the Renew"
     },
     "105": {
       "description": "TBD",
@@ -427,7 +427,7 @@
   },
   "speakers" : [ null, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "I am the Founder and CEO of Symph – a design, development and digital marketing studio in Cebu City, Philippines. Symph designs and develops for brands and startups and creates awesome things that people love. Prior to starting Symph, I was the CIO at Bigfoot – a media and entertainment company – where I oversaw all technology and digital media assets. I am passionate about creating and empowering startups and working on products that have a capacity to make the world a better place. I have a BA in International Economics from San Diego State University.",
     "company" : "Symph",
     "companyLogo" : "/images/logos/symph.png",
     "country" : "Philippines",
@@ -441,7 +441,7 @@
     "title" : "Founder, CEO"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Mani comes with a strong background of Mobile Development in Apps & games, across a broad range of mobile platforms starting from the earliest Symbian phones. Mani joined Google Developer Relations team roughly a year back to strengthen the local Tech Ecosystem in Singapore.",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
     "country" : "",
@@ -539,7 +539,7 @@
     "title" : "Project Lead, Web Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Francis designs interfaces and experiences that are usable & delightful for human beings. He also facilitates design sprints, brand startups, write frontend code, give talks and also help organize creative events in the local community.",
     "company" : "Symph",
     "companyLogo" : "/images/logos/symph.png",
     "country" : "Philippines",
@@ -567,7 +567,7 @@
     "title" : "Web Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Shang Yi loves what's interesting in technology. He mainly works with Java and occasionally codes on Ionic on the weekends, sometimes a bit of electronics. Loves reading creepypastas, and cooks when he's bored.",
     "company" : "Ezypay",
     "companyLogo" : "/images/logos/ezypay.png",
     "country" : "Malaysia",
@@ -581,7 +581,7 @@
     "title" : "Software Developer"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Brian Tan Seng is the President and CEO of 98Labs Inc. 98Labs is a startup based in the Philippines doing software development outsourcing for the US, France and Japan.<br><br>Brian advocates the use of Agile development, Scrum and XP whenever possible.",
     "company" : "98Labs",
     "companyLogo" : "/images/logos/98labs.jpg",
     "country" : "Philippines",
@@ -623,7 +623,7 @@
     "title" : "Product Designer and Frontend Developer"
   }, {
     "badges": [ ],
-    "bio" : "Google Developer Expert",
+    "bio" : "Jecelyn specializes in professional application development with technologies, including Angular, HTML5, Typescript, JavaScript, CSS, C#, NodeJs and ASP.NET. Jecelyn has over 8 years of programming experience which includes working on ERP, shared services and fintech products, from enterprise to startup. She has held various roles from developer to consultant to team manager to her latest being full stack developer at iflix.com, a Malaysian based Video-On- Demand platform.<br><br>When Jecelyn isn’t busy distinguishing herself as (usually) the only female engineer on her team, she’s funneling her passion in tech into publishing articles on Medium and Scotch.io as well as sharing her knowledge via workshops and conferences and meetups.<br><br>She is the current Director of Women Who Code Kuala Lumpur, a non-profit organization that connects and supports women to excel in the tech industry since 2014 through meet ups and codelabs.<br><br>Ironically her favourite past time away from work involves travelling to remote islands without WiFi for deep sea diving expeditions and reading books with tangible covers. Springing a rubber spider on her lap is a very effective method of striking terror in her heart.",
     "company" : "Randstad Malaysia",
     "companyLogo" : "/images/logos/randstad.png",
     "country" : "Malaysia",
@@ -777,7 +777,7 @@
     "title" : "Country Director"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "JP Palpallatoc leads Accenture Digital in the Philippines, which has delivery and capability-building responsibilities over Mobility, Analytics, and Interactive. Across Accenture worldwide, JP is also the Global Delivery Network (GDN) Mobility Capability Lead and Accenture Digital Global Delivery Network APAC Area Lead.",
     "company" : "Accenture",
     "companyLogo" : "/images/logos/accenture.png",
     "country" : "Philippines",
@@ -791,7 +791,7 @@
     "title" : "Senior Executive"
   }, {
     "badges": [ ],
-    "bio" : "TBD",
+    "bio" : "Ralph Vincent Regalado, is the CEO and Founder of Senti, a localized social media analytics platform. He is an active community volunteer that contributes to the growth of the tech community in the Philippines as he is the Community Manager of Google Developers Group Philippines and was an organizer of Startup Weekend Manila.<br><br>He worked as an Assistant Professor and AI researcher at De La Salle University, Manila. His research works have been presented not only in the Philippines but also in international conferences hosted in China, Japan, Vietnam, Indonesia and the United States. When he is not at work he spends his time traveling and hiking mountains.",
     "company" : "SENTi TechLabs, Inc.",
     "companyLogo" : "/images/logos/senti.jpg",
     "country" : "Philippines",
